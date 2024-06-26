@@ -75,11 +75,11 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	
+
 	<configuration>
-		<testFailureIgnore>true</testFailureIgnore> 
-		<argLine>${argLinee} -Xmx2048m</argLine>
-	</configuration>
+         <testFailureIgnore>true</testFailureIgnore>
+         <argLine>${argLinee} -Xmx2048m</argLine>
+	</configuration
 
 	
 	<build>
